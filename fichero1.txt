@@ -1,2 +1,21 @@
-Una linea cualquiera
-Otra linea cualquiera
+Fichero 1
+
+git init
+git status
+git config --global user.name "jota"
+git config --global user.email "jota@gmail.com"
+git commit -m "commit inicial"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Típico workflow...
+
+git status
+git add .
+git commit -m "mensaje de turno....."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+¿Cómo listar los commits?
+
+git log
